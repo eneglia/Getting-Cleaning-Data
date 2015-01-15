@@ -28,7 +28,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ### ID variables
 * subject_id : 1 to 30 each representing a participant in the study
 * activity : the activity that the subject was doing at the time of the measurement
-   1. WALKING
+   1 . WALKING
    2. WALKING_UPSTAIRS
    3. WALKING_DOWNSTAIRS
    4. SITTING
