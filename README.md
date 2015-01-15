@@ -3,7 +3,7 @@
 This repository contains all the elements required in the Course Project Peer Assessments:
 * [run_analysis.R](https://github.com/eneglia/Getting-Cleaning-Data/blob/master/run_analysis.R): code to run the analysis and create the output data set
 * [CodeBook.md](https://github.com/eneglia/Getting-Cleaning-Data/blob/master/CodeBook.md): document that describes the variables, the data, and the transformations performed
-* "tidy_final.txt": final output file that meets the tidy data principles
+* [tidy_final.txt](https://github.com/eneglia/Getting-Cleaning-Data/blob/master/tidy_final.txt): final output file that meets the tidy data principles
 
 ## Instructions
 * Install R/R Studio
