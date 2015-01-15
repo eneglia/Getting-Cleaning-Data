@@ -36,7 +36,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
     * 6 LAYING
 
 ### Measurement Variables
-See features_info.txt for complete description of measurements and statistics calculated
+See "features_info.txt" for complete description of measurements and statistics calculated
 * Variables
    * tBodyAcc-XYZ
    * tGravityAcc-XYZ
