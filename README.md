@@ -2,6 +2,13 @@
 
 This repository contains all the elements required in the Course Project Peer Assessments
 
+## Instructions
+* Install R/R Studio
+* Install packages "reshape2" and "plyr"
+* Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "data"
+* Put UCI HAR Dataset under your working directory
+* Run the code "run_analysis.R" to create the required dat set and the txt file to upload
+
 ### Course Project
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project.
@@ -23,10 +30,4 @@ You should create one R script called run_analysis.R that does the following.
 * Uses descriptive activity names to name the activities in the data set
 * Appropriately labels the data set with descriptive variable names. 
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-
-### Instructions
-* Install R/R Studio
-* Install packages "reshape2" and "plyr"
-* Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "data"
-* Put UCI HAR Dataset under your working directory
-* Run the code "run_analysis.R" to create the required dat set and the txt file to upload
+* 
