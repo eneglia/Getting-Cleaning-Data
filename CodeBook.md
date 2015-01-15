@@ -7,13 +7,20 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Folder Contents
+* Documentations about analysis, data sets included and measurements performed
+    * README.txt :
+    * features_info.txt :
 * Train data sets (UCI HAR Dataset\train)
-    * X_train.txt': Training set.
-    * y_train.txt': Training activities ID.
-    * subject_test.txt :Training subjects ID.
+    * X_train.txt': Training set
+    * y_train.txt': Training activities ID
+    * subject_train.txt :Training subjects ID
 * Test data sets (UCI HAR Dataset\test)
-* Lookup table for activities and measurements description ("activity_labels.txt";"features.txt")
-* Documentations about analysis, data sets included and measurements performed ("README.txt","features_info.txt")
+    * X_test.txt': Test set
+    * y_test.txt': Test activities ID
+    * subject_test.txt :Training subjects ID
+* Lookup table for activities and measurements description 
+    * activity_labels.txt
+    * features.txt
 
 ## Course Project 
 The goal of the course project is to collect and clean the data to prepare tidy data that can be used for later analysis 
