@@ -2,7 +2,7 @@
 # setting wotking directory #
 #############################
 
-setwd("C://Users/Public/Documents/Formazione/Coursera Data Science/3-Getting and Cleaning Data/CoursePoject")
+##setwd("C://Users/Public/Documents/Formazione/Coursera Data Science/3-Getting and Cleaning Data/CoursePoject")
 ##install.packages("reshape2")
 ##install.packages("plyr")
 
