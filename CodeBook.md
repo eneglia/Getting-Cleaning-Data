@@ -7,7 +7,10 @@ Here are the data for the project:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## Folder Contents
-* Train data sets (UCI HAR Dataset\train) 
+* Train data sets (UCI HAR Dataset\train)
+    * X_train.txt': Training set.
+    * y_train.txt': Training activities ID.
+    * subject_test.txt :Training subjects ID.
 * Test data sets (UCI HAR Dataset\test)
 * Lookup table for activities and measurements description ("activity_labels.txt";"features.txt")
 * Documentations about analysis, data sets included and measurements performed ("README.txt","features_info.txt")
