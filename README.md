@@ -5,8 +5,8 @@ This repository contains all the elements required in the Course Project Peer As
 ## Instructions
 * Install R/R Studio
 * Install packages "reshape2" and "plyr"
-* Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and rename the folder with "data"
-* Put UCI HAR Dataset under your working directory
+* Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* Put "UCI HAR Dataset" folder under your working directory
 * Run the code "run_analysis.R" to create the required dat set and the txt file to upload
 
 ### Course Project
