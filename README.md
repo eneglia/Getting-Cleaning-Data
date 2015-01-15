@@ -1,13 +1,15 @@
 # Coursera: Getting and Cleaning Data Course
 
-This repository contains all the elements required in the Course Project Peer Assessments
+This repository contains all the elements required in the Course Project Peer Assessments:
+* "run_analysis.R" code to run the analysis and create the output data set
+* "CodeBook.md" that describes the variables, the data, and the transformations performed
 
 ## Instructions
 * Install R/R Studio
 * Install packages "reshape2" and "plyr"
 * Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Put "UCI HAR Dataset" folder under your working directory
-* Run the code "run_analysis.R" to create the required dat set and the txt file to upload
+* Run the code "run_analysis.R" to follow the step required and the txt file to upload
 
 ### Course Project
 
