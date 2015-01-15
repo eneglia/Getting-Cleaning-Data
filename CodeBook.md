@@ -28,43 +28,44 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ### ID variables
 * subject_id : 1 to 30 each representing a participant in the study
 * activity : the activity that the subject was doing at the time of the measurement
-1. WALKING
-   2. WALKING_UPSTAIRS
-   3. WALKING_DOWNSTAIRS
-   4. SITTING
-   5. STANDING
-   6. LAYING
+   *1 WALKING
+   *2 WALKING_UPSTAIRS
+   *3 WALKING_DOWNSTAIRS
+   *4 SITTING
+   *5 STANDING
+   *6 LAYING
 
 ### Measurement Variables
-* Mean value and Standard Deviation of the following variables:
-   tBodyAcc-XYZ
-   tGravityAcc-XYZ
-   tBodyAccJerk-XYZ
-   tBodyGyro-XYZ
-   tBodyGyroJerk-XYZ
-   tBodyAccMag
-   tGravityAccMag
-   tBodyAccJerkMag
-   tBodyGyroMag
-   tBodyGyroJerkMag
-   fBodyAcc-XYZ
-   fBodyAccJerk-XYZ
-   fBodyGyro-XYZ
-   fBodyAccMag
-   fBodyAccJerkMag
-   fBodyGyroMag
-   fBodyGyroJerkMag
-   gravityMean
-   tBodyAccMean
-   tBodyAccJerkMean
-   tBodyGyroMean
-   tBodyGyroJerkMean
+See features_info.txt for complete description of measurements and statiscics calculated
+* Variables
+   * tBodyAcc-XYZ
+   * tGravityAcc-XYZ
+   * tBodyAccJerk-XYZ
+   * tBodyGyro-XYZ
+   * tBodyGyroJerk-XYZ
+   * tBodyAccMag
+   * tGravityAccMag
+   * tBodyAccJerkMag
+   * tBodyGyroMag
+   * tBodyGyroJerkMag
+   * fBodyAcc-XYZ
+   * fBodyAccJerk-XYZ
+   * fBodyGyro-XYZ
+   * fBodyAccMag
+   * fBodyAccJerkMag
+   * fBodyGyroMag
+   * fBodyGyroJerkMag
+   * gravityMean
+   * tBodyAccMean
+   * tBodyAccJerkMean
+   * tBodyGyroMean
+   * tBodyGyroJerkMean
 * Additional variables:
-   gravityMean
-   tBodyAccMean
-   tBodyAccJerkMean
-   tBodyGyroMean
-   tBodyGyroJerkMean
+   * gravityMean
+   * tBodyAccMean
+   * tBodyAccJerkMean
+   * tBodyGyroMean
+   * tBodyGyroJerkMean
 
 ## Course Project 
 The goal of the course project is to collect and clean the data to prepare tidy data that can be used for later analysis 
