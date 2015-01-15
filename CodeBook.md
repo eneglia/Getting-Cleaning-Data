@@ -37,7 +37,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 ### Measurement Variables
 See "features_info.txt" for complete description of measurements and statistics calculated
-* Variables
+* Base Variables
    * tBodyAcc-XYZ
    * tGravityAcc-XYZ
    * tBodyAccJerk-XYZ
@@ -60,6 +60,8 @@ See "features_info.txt" for complete description of measurements and statistics 
    * tBodyAccJerkMean
    * tBodyGyroMean
    * tBodyGyroJerkMean
+* Variables that were estimated from the base variables
+   *
 * Additional variables:
    * gravityMean
    * tBodyAccMean
