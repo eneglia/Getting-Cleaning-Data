@@ -1,7 +1,4 @@
-# Getting-Cleaning-Data
-Repository for Getting and Cleaning Data Course Project
-
-## Coursera: Getting and Cleaning Data course
+# Coursera: Getting and Cleaning Data Course
 
 This repository contains all the elements required in the Course Project Peer Assessments
 
