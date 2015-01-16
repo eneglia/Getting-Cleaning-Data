@@ -1,16 +1,16 @@
 # Coursera: Getting and Cleaning Data Course
 
 This repository contains all the elements required in the Course Project Peer Assessments:
-* "run_analysis.R": code to run the analysis and create the output data set
-* "CodeBook.md": document that describes the variables, the data, and the transformations performed
-* "tidy_final.txt": final output file that meets the tidy data principles
+* [run_analysis.R](https://github.com/eneglia/Getting-Cleaning-Data/blob/master/run_analysis.R): code to run the analysis and create the output data set
+* [CodeBook.md](https://github.com/eneglia/Getting-Cleaning-Data/blob/master/CodeBook.md): document that describes the variables, the data, and the transformations performed
+* [tidy_final.txt](https://github.com/eneglia/Getting-Cleaning-Data/blob/master/tidy_final.txt): final output file that meets the tidy data principles
 
 ## Instructions
 * Install R/R Studio
 * Install packages "reshape2" and "plyr"
 * Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Put "UCI HAR Dataset" folder under your working directory
-* Run the code "run_analysis.R" to follow the step required and create the txt file to upload
+* Run the code [run_analysis.R](https://github.com/eneglia/Getting-Cleaning-Data/blob/master/run_analysis.R) to follow the step required and create the txt file to upload
 
 ### Course Project
 
