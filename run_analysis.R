@@ -2,7 +2,7 @@
 # setting wotking directory #
 #############################
 
-setwd("C://Users/Public/Documents/Formazione/Coursera Data Science/3-Getting and Cleaning Data/CoursePoject")
+##setwd("C://Users/Public/Documents/Formazione/Coursera Data Science/3-Getting and Cleaning Data/CoursePoject")
 ##install.packages("reshape2")
 ##install.packages("plyr")
 
@@ -87,4 +87,8 @@ datamelt<-melt(extraction,id=c("subject_id","activity"), measure.vars=col)
 tidy_final <- dcast(datamelt, subject_id + activity ~ variable,mean)
 ##dim(tidy_final)
 
+colnames(tidy_final)<- c("subject_id","activity",paste("Mean of",col))
+
 write.table(tidy_final,"./tidy_final.txt", quote=F ,sep="," , row.name=FALSE)
+
+
